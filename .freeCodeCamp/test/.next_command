@@ -355,3 +355,4 @@ echo "$(echo ' M e '| sed 's/ *$|^ *//g')."
 man sed
 man sed
 echo "$(echo ' M e '| sed -r 's/ *$|^ *//g')."
+./bike-shop.sh
